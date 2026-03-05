@@ -57,6 +57,34 @@ For this project, I’ve selected the fantasy novel ‘Set Fire to the Gods’ b
 
 ## Non-Functional Requirements
 ### Performance
-- 
+- Navigation between screens should occur within one second - a loading screen shouldn't be required.
 ### Usability
-- Hovering over a location should be slightly delayed to ensure there isn't overlap and accidental hovering. 
+- Hovering over a location should be slightly delayed to ensure there isn't overlap and accidental hovering.
+- The layout of each popup should be consistent.
+- There should be a clear help and back button for ease of navigation.
+- There should be a balance between using fonts for display reasons whilst still being accessible and readable.
+### Reliability
+- The application should be tested on multiple devices (laptop, PC, and possibly mobile - mobile isn't required.) Unity has built-in features for testing the application on different screen sizes.
+### Security
+- There shouldn't be any issues with security due to the application only being used locally.
+
+## Social, Ethical, and Legal Issues
+### Social Impact
+- Target Audience:
+    - The application should be accessbile for people of all ages and abilities. The specific target audience is those aged 14-18, and with a reasonably high reading ability, but this doesn't change the fact that the application should be simple, legible, and usable for all.
+- Potential Benefits:
+    - The aesthetic side of the application specifically aims to encourage people to read more, or start reading this specific book, through the way it invests users in the fantasy genre. It'll also help to promote the book further.
+- Potential Risks:
+    - One includes the acccessibility/legibility being brought down through a focus on aesthetics; gothic fonts may be hard for some people to read. Some themes in the book that may be risky for children include a small amount of coarse language, sexual jokes, and some violence.
+### Ethical Responsibilities
+- User Data & Privacy
+    - The program will not collect any user data.
+- Representation & Inclusion
+    - The program will present characters fairly, without leaving out any ideas or context due to biases or personal views.
+- Content Sensitivity
+    - As mentioned in 'potential risks', the content included in the book includes some violence, mildly sexual jokes, and a small amount of coarse language. These will be handled by not including those specific parts in the application, as they aren't really relevant to the backstory of the book or characters.
+### Legal Considerations
+- Copyright & Intellectual Property:
+    - I'll be using the map and ideas featured in the book, which is legal due to the project not being commercial. The author should be credited.
+- Terms of Use:
+    - 'smartcopying.edu.au' states that copies and communications of novels may be made as long as it's for educational reasons. 
