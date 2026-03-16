@@ -109,3 +109,43 @@ Higher resolution here: https://docs.google.com/spreadsheets/d/1d0ylO19h6-PUTPQM
 | Adobe XD | Adobe XD is a software more specifically made for interactive websites - similar to the kind of application I'm trying to make. It allows for very easy and fast navigation between pages, something Unity lacks in. | Adobe XD has quite rigid UI, making it more difficult to have flexibility in the design and aesthetics side of my project. There's a lack of features, which although it does enhance simplicity, it, again, restricts freedom. | Adobe XD is very ideal for navigation between pages, which is a key part of my application - however, its lack of features and restriction of user input could lead to an inability to incorporate interesting features.
 
 ## Sketch Wireframes
+### Initial Wireframes
+![Home Page Wireframe](Wireframe1.jpg)
+![Pop-up & Character Wireframes](Wireframe2_3.jpg)
+### Feedback
+**Usability**
+- Intuitivity was rated as a 3.5/5
+- Some suggestions for improvement include:
+    - Some icons are ambiguous, making navigation confusing
+    - Takes some time to understand
+    - Pop-up feels unnatural
+
+**Aesthetics**
+- Aesthetics were rated as a 4.75/5
+- No negative criticism was provided.
+- Use of space was rated as a 4/5
+- Some suggestions for improvement include:
+    - A bit cramped
+    - Map looks a little barren while profile side has a lot
+
+**Functionality**
+- Ease of navigation was rated as a 4/5
+- Some suggestions for improvement include:
+    - Disorganised user path
+    - Pop-up is too large and complex
+    - Back button should go back to the pop-up rather than the home page
+
+**Home Page**
+- More clear navigation buttons
+- Reducing the amount of visual stimulation on the information screens
+- Extra features
+- A zoom option (for visually impaired people)
+
+**Pop-up**
+- A little hard to understand and quite information dense, should be simplified
+- Should instead be a small box of general info
+
+**Character information**
+- Zoom option
+- Quote bubble down the bottom looks like an afterthought
+- Home button available on all pages
