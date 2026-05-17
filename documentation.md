@@ -149,3 +149,7 @@ Higher resolution here: https://docs.google.com/spreadsheets/d/1d0ylO19h6-PUTPQM
 - Zoom option
 - Quote bubble down the bottom looks like an afterthought
 - Home button available on all pages
+
+## Development
+### First prototype
+My first prototype will be focused on the very basic coding and layout side of things. Navigation should be possible, there shouldn't be animations yet, and graphics and information should be limited.
