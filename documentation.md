@@ -174,6 +174,8 @@ Higher resolution here: https://docs.google.com/spreadsheets/d/1d0ylO19h6-PUTPQM
 - The second prototype would include refined graphics, a fully functional interface, and accurate information. It should not include optional features such as animation.
 
 **Feedback:**
+- I was, unfortunately not able to gather feedback on the second prototype. The link for the project could not be copied.
+- My personal evaluation is that it fits all prepared plans. It is fully navigational, and aesthetically appealing.
 
 ### Final Prototype
 **Plans:**
