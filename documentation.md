@@ -152,4 +152,41 @@ Higher resolution here: https://docs.google.com/spreadsheets/d/1d0ylO19h6-PUTPQM
 
 ## Development
 ### First prototype
-My first prototype will be focused on the very basic coding and layout side of things. Navigation should be possible, there shouldn't be animations yet, and graphics and information should be limited.
+**Plans:**
+- My first prototype will be focused on the very basic coding and layout side of things. Navigation should be possible, there shouldn't be animations yet, and graphics and information should be limited.
+
+**Evaluation:**
+- Personal testing proved the program to be fully functional, with all buttons created so far being interactive and navigating to the correct page.
+- I asked four of my peers to test the prototype. These were the results:
+    - Home page navigation: 4.5/5
+        - One responder reported a need to scroll on the home page, which was unintentional. It may not look as intended on all devices.
+    - Location page navigation: 4.75/5
+        - Font may be hard to read (this can decrease accessibility, so it should be addressed)
+    - Help page navigation: 4.25/5
+        - The heart button doesn't make sense yet - I already have plans to improve this in further prototypes
+        - Back button is slightly vague (maybe change to a home button?)
+    - Location page aesthetics: 4.75/5
+        - Fonts are difficult to read
+- Overall, buttons need to be more clear (perhaps a popup when hovered?), and fonts may need to be improved. Navigation is generally well done.
+
+### Second prototype
+**Plans:**
+- The second prototype would include refined graphics, a fully functional interface, and accurate information. It should not include optional features such as animation.
+
+**Feedback:**
+
+### Final Prototype
+**Plans:**
+- Incorporate optional features such as animation
+
+### Final Evaluation
+- **Evaluate how effectively your product meets the functional and non-functional requirements, including its stated purpose, use case flows, expected behaviours, usability, performance, reliability, and any relevant security considerations.**
+    - The functional and non-functional requirements were not fully carried out, as animation proved to be much more difficult and time-consuming than expected; this includes the box which would show up upon hovering, which was a significant part of the requirements. The users are successfully able to click on a location or character for more information.
+- **Evaluate how well your final product meets the intentions outlined in your design brief, including suitability for the target audience and purpose.**
+    - The final product is still suitable for the target audience, especially in the map's aesthetic appeal; this piques the interest of new readers and young adults / teenagers.
+- **Evaluate the extent to which your project addresses relevant social, ethical, and legal responsibilities, particularly in relation to the chosen book and user experience.**
+    - The project adequately addresses all social, ethical, and legal responsibilities. The only remainining possible flaw is the readability of titles.
+- **Evaluate how effectively you managed your time, resources, and processes throughout the project, including how well you met milestones, adapted to challenges, and maintained consistent progress.**
+    - Addmitedly, my time could've been managed a bit better. The book I selected ended up being much more difficult to create the project for than expected, due to a lack of information in the book and absolutely nothing about it online. The coding also didn't go as intended, due to having to switch programs.
+- **Evaluate how effectively you gathered and responded to user feedback and testing with consideration to how it influenced your design decisions and what aspects of the product still require improvement.**
+    - All user feedback was taken into consideration and, if possible, incorportated into the program.
